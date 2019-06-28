@@ -41,6 +41,17 @@
                     <p><persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορι</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers464">Εὐφόρβῳ</persName>~ καὶ γὰρ καὶ τοὺς <rs type="ethnic" n="urn:cite2:hmt:place.v1:place272">Δαρδανίους</rs>, <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρῶας</rs> φησι⁑</p>
                   </div>
                 </div>
+                      <div type="scholion" n="E3_224r_3">
+                        <div n="lemma">
+                          <p>gap</p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.4@πόρτακι</p>
+                        </div>
+                        <div n="comment">
+                          <p>τὸν <persName n="urn:cite2:hmt:pers.v1:pers127">Αἴοντα</persName> λέοντι εἰκάζει διὰ τὸ καρτερὸν καὶ ἰσχυρόν~ τὸν <persName n="urn:cite2:hmt:pers.v1:pers118">Όδυσσέα</persName>. κυνὶ~ διὰ τὸ ταπεινότερον μὲ\ν ὅμως θαρσαλέον~ τὸν δὲ <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαον</persName> συμπαθεί μὲν ζώῳ, οὐ μὴν βιαίῳ~ τοῦτο γὰρ τῷ ἤθει τοῦ ἀνδρὸς καὶ τῇ παρούσῃ τύχῃ οἰκεῖον~ εὖ δὲ ἀντὶ τοῦ ὀνόματος τὸ <q><choice><abbr>μηρ</abbr> <expan>μήτηρ</expan></choice></q> ἔλαυβε~ τὸ φιλοστοργότατον τῆς φύσεως ὄνομα~ τὸ δὲ πόρτακι ὑποκοριστικῶς~ τριχῶς δὲ τὸ ὄνομα παρ' αὐτῷ λέγεται~ πόρταξ, ὡς νῦν~ πόρις~ ὡς δ' ὅτ' ἂν ἄγραυλοι πόριες~ πόρτις~ ὡς τὸ πὸρτιος ἠὲ βοός⁑</p>
+                        </div>
+                      </div>
             </body>
         </text>
         </group>
