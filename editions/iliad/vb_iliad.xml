@@ -5,8 +5,8 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>SECOND EDITOR's NAME HERE</editor>
+        <editor>Victoria Ydens</editor>
+        <editor>Lisa Seldenthuis</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
@@ -19,7 +19,14 @@
   <text>
     <body>
       <div n="17">
-        <l n="1">Iliad text</l>
+        <l n="title"><choice><abbr>ἀρχ</abbr> <expan>ἀρχὴ</expan></choice> τῆς ρ <persName n="urn:cite2:hmt:pers.v1:pers17"> Ὁμήρου</persName> <title>Ἰλιάδος</title>⁑</l>
+        <l n="1">ουδ' ἔλαυθ' <persName n="urn:cite2:hmt:pers.v1:pers23">Ἀτρέος</persName> ὑιὸν ἀρηΐφιλον <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαον</persName></l>
+        <l n="2"><persName n="urn:cite2:hmt:pers.v1:pers158">Πάτροκλος</persName> <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώεσσι</rs> <w>δαμ<corr>εὶ</corr>ς</w> ἐν δηϊοτῆτι~</l>
+        <l n="3">βῆ δὲ διὰ προμάχων κεκορυθμένος αἴθοπι καλκῷ~</l>
+        <l n="4">ἀμφὶ δ' ἂρ' αὐτῷ βαῖν', ὥς τις περὶ πόρτακι μήτηρ</l>
+        <l n="5">πρωτοτόκος κινυρὴ. οὐ πρὶν εἰδυῖα τόκοιο~</l>
+        <l n="6">ὢς περὶ <persName n="urn:cite2:hmt:pers.v1:pers158">Πατρόκλῳ</persName> βαῖνε ξανθὸς <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαος</persName>~</l>
+        <l n="7">πρόσθε δέ οἱ δόρυ τ' ἔσχε καὶ ἀσπίδα πάντοσ' ἐΐσην~</l>
       </div>
     </body>
   </text>
