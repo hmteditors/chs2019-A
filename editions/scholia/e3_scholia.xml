@@ -41,6 +41,8 @@
                     <p><persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορι</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers464">Εὐφόρβῳ</persName>~ καὶ γὰρ καὶ τοὺς <rs type="ethnic" n="urn:cite2:hmt:place.v1:place272">Δαρδανίους</rs>, <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρῶας</rs> φησι⁑</p>
                   </div>
                 </div>
+
+
                       <div type="scholion" n="E3_224r_3">
                         <div n="lemma">
                           <p>gap</p>
@@ -52,7 +54,6 @@
                           <p>τὸν <persName n="urn:cite2:hmt:pers.v1:pers127">Αἴοντα</persName> λέοντι εἰκάζει διὰ τὸ καρτερὸν καὶ ἰσχυρόν~ τὸν <persName n="urn:cite2:hmt:pers.v1:pers118">Όδυσσέα</persName>. κυνὶ~ διὰ τὸ ταπεινότερον μὲ\ν ὅμως θαρσαλέον~ τὸν δὲ <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαον</persName> συμπαθεί μὲν ζώῳ, οὐ μὴν βιαίῳ~ τοῦτο γὰρ τῷ ἤθει τοῦ ἀνδρὸς καὶ τῇ παρούσῃ τύχῃ οἰκεῖον~ εὖ δὲ ἀντὶ τοῦ ὀνόματος τὸ <q><choice><abbr>μηρ</abbr> <expan>μήτηρ</expan></choice></q> /ἔλαβε~ τὸ φιλοστοργότατον τῆς φύσεως ὄνομα~ τὸ δὲ <q>ὑποκοριστικῶς</q>~ τριχῶς δὲ τὸ ὄνομα παρ' αὐτῷ λέγεται~ <q>πόρταξ</q>, ὡς νῦν~ <q>πόρις</q>~ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:10.410</ref><q>ὡς δ' ὅτ' ἂν ἄγραυλοι πόριες</q></cit>~ <q>πόρτις</q>~ ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:5.162</ref><q>πόρτιος ἠὲ βοός</q></cit>⁑</p>
                         </div>
                       </div>
-
                       <div type="scholion" n="E3_224r_4">
                         <div n="lemma">
                           <p>gap</p>
@@ -62,6 +63,41 @@
                         </div>
                         <div n="comment">
                           <p>πρὸς τὸ μὴ εἶναι ἀσθενῆ. ἀλλὰ καὶ φιλόστοργον~ <q>κινυρὴ</q> δὲ, οἰκτρόφωνος~ πρόσκειται δὲ. διὰ τὴν <persName n="urn:cite2:hmt:pers.v1:pers119">Μενελάου</persName> λύπην~ ὑφ' ἓν δὲ, ἵν' ᾖ ἐν τῷ τίκτειν θρηνοῦσα~ <q>εἰδυῖα</q> δὲ, ἀντὶ τοῦ <q>ἐγνωκυῖα</q> καὶ <q>ἐπισταμένη</q>⁑</p>
+                        </div>
+                      </div>
+
+
+                      <div type="scholion" n="E3_227v_1">
+                        <div n="lemma">
+                          <p><num value="1">α</num></p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.151@κάλλιπες</p>
+                        </div>
+                        <div n="comment">
+                          <p>τὸ <q>κάλλιπες</q> τόν ἐθελόκακον δηλοῖ~ πῶς δὲ δίκαιον τὸν ξένον~ τὸν φίλον~ τὸν σύμμαχον περιορᾶσθαι⁑</p>
+                        </div>
+                      </div>
+                      <div type="scholion" n="Ε3_227v_2">
+                        <div n="lemma">
+                          <p><num value="2">β</num></p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.152@πὸλλ'</p>
+                        </div>
+                        <div n="comment">
+                          <p>πολλάκις πολλαχὼς. ἢ λείπει ἡ <q>κατά</q>⁑</p>
+                        </div>
+                      </div>
+                      <div type="scholion" n="E3_227v_3">
+                        <div n="lemma">
+                          <p>gap</p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.156@γὰρ</p>
+                        </div>
+                        <div n="comment">
+                          <p>ἀπειλήσας τὴν ἐπάνοδον. πάλιν προτρέπει ἐπι τὴν βοήθειαν~ ὁρηζομένου καὶ κηδομένου ἐμφαίνων. ἦθως~ λεληθότως δὲ καὶ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώων</rs> καθὰπεται⁑</p>
                         </div>
                       </div>
             </body>
