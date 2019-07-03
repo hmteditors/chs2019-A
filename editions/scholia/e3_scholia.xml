@@ -78,20 +78,24 @@
                           <p>τὸ <q>κάλλιπες</q> τόν ἐθελόκακον δηλοῖ~ πῶς δὲ δίκαιον τὸν ξένον~ τὸν φίλον~ τὸν σύμμαχον περιορᾶσθαι⁑</p>
                         </div>
                       </div>
-                      <div type="scholion" n="Ε3_227v_2">
-                        <div n="lemma">
-                          <p><num value="2">β</num></p>
-                        </div>
-                        <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.152@πὸλλ'</p>
-                        </div>
-                        <div n="comment">
-                          <p>πολλάκις πολλαχὼς. ἢ λείπει ἡ <q>κατά</q>⁑</p>
-                        </div>
-                      </div>
+
+
+<div type="scholion" n="E3_227v_2">
+  <div n="lemma">
+    <p><num value="2">β</num></p>
+  </div>
+  <div n="ref">
+    <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.152@πὸλλ'</p>
+  </div>
+  <div n="comment">
+    <p>πολλάκις πολλαχὼς. ἢ λείπει ἡ <q>κατά</q>⁑</p>
+  </div>
+</div>
+
+
                       <div type="scholion" n="E3_227v_3">
                         <div n="lemma">
-                          <p>gap</p>
+                          <gap></gap>
                         </div>
                         <div n="ref">
                           <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.156@γὰρ</p>
