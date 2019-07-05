@@ -96,6 +96,40 @@
                             <p>ἀπειλήσας τὴν ἐπάνοδον, πάλιν προτρέπει ἐπὶ τὴν βοήθειαν~ ὀργιζομένου καὶ κηδομένου ἐμφαίνων ἦθος~ λεληθότως δὲ καὶ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώων</rs> καθάπτεται⁑</p>
                         </div>
                     </div>
+
+                    <div n="msB_234v_4" type="scholion">
+                      <div n="lemma">
+                          <p><num value="4">δ</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.646@ὅς</p>
+                      </div>
+                      <div n="comment">
+                          <p>ἀξιόπιστα τὰ ἐγκώμια, ὑπὸ πολεμίου λεγόμενα~ τεχνικῶς δὲ μέγα δείκνυσι τὸ κατόρθωμα μᾶλλον προτρέπων αὐτούς⁑</p>
+                      </div>
+                  </div>
+                  <div n="msB_234v_5" type="scholion">
+                    <div n="lemma">
+                        <p><num value="5">ε</num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.167@ἄντα</p>
+                    </div>
+                    <div n="comment">
+                        <p>οὐμόνον οὐκ ἀντιστῆναι ἠ δυνήθης φὴσι, ἀλλ᾽ οὐδὲ ἀντιβλέψαι⁑</p>
+                    </div>
+                </div>
+                <div n="msB_234v_6" type="scholion">
+                  <div n="lemma">
+                      <p><num value="6">ϛ</num></p>
+                  </div>
+                  <div n="ref">
+                      <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.170@Γλαῦκε</p>
+                  </div>
+                  <div n="comment">
+                      <p>οὐκ εὐπορων ἀπολογίας, ὡς ὑβρισμένος μὲν ἀγανακτεῖ~ πρὸς δὲ τὰ κατηγορηθέντα ἀπο κρίνεται~ καὶ τὴν αἰτίαν ψεύδεται, εἰς τὸν δία τὸ ὅλον ἀν ἀφέρων⁑</p>
+                  </div>
+              </div>
                   </body>
             </text>
         </group>

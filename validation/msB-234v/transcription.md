@@ -9,6 +9,15 @@
 γ urn:cts:greekLit:tlg0012 . tlg001 . msB:17 . 156@νῦν ἀπειλήσας τὴν ἐπάνοδον , πάλιν προτρέπει ἐπὶ τὴν βοήθειαν ~ ὀργιζομένου καὶ κηδομένου ἐμφαίνων ἦθος ~ λεληθότως δὲ καὶ Τρώων καθάπτεται ⁑ (*urn:cts:greekLit:tlg5026.msB.hmt:17.msB_234v_3*)  [![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_234v_235r.tif&RGN=0.03829,0.2074,0.1423,0.09889&WID=1000&CVT=JPEG)](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_234v_235r@0.03829,0.2074,0.1423,0.09889)
 
 
+δ urn:cts:greekLit:tlg0012 . tlg001 . msB:17 . 646@ὅς ἀξιόπιστα τὰ ἐγκώμια , ὑπὸ πολεμίου λεγόμενα ~ τεχνικῶς δὲ μέγα δείκνυσι τὸ κατόρθωμα μᾶλλον προτρέπων αὐτούς ⁑ (*urn:cts:greekLit:tlg5026.msB.hmt:17.msB_234v_4*)  [![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_234v_235r.tif&RGN=0.04231,0.4798,0.1357,0.09793&WID=1000&CVT=JPEG)](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_234v_235r@0.04231,0.4798,0.1357,0.09793)
+
+
+ε urn:cts:greekLit:tlg0012 . tlg001 . msB:17 . 167@ἄντα ούμόνον οὐκ ἀντιστῆναι ἠ δυνήθης φὴσι , ἀλλ' οὐδὲ ἀντιβλέψαι ⁑ (*urn:cts:greekLit:tlg5026.msB.hmt:17.msB_234v_5*)  [![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_234v_235r.tif&RGN=0.04633,0.7176,0.2991,0.03184&WID=1000&CVT=JPEG)](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_234v_235r@0.04633,0.7176,0.2991,0.03184)
+
+
+ϛ urn:cts:greekLit:tlg0012 . tlg001 . msB:17 . 170@Γλαῦκε οὐκ εὐπορων ἀπολογίας , ὡς ὑβρισμένος μὲν ἀγανακτεῖ ~ πρὸς δὲ τὰ κατηγορηθέντα ἀπο κρίνεται ~ καὶ τὴν αἰτίαν ψεύδεται , εἰς τὸν δία τὸ ὅλον ἀν ἀφέρων ⁑ (*urn:cts:greekLit:tlg5026.msB.hmt:17.msB_234v_6*)  [![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_234v_235r.tif&RGN=0.04422,0.7361,0.4145,0.04840&WID=1000&CVT=JPEG)](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_234v_235r@0.04422,0.7361,0.4145,0.04840)
+
+
 κάλλιπες Ἀργείοισιν ἕλωρ καὶ κύρμα γενέσθαι ~ (*urn:cts:greekLit:tlg0012.tlg001.msB:17.151*)  [![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_234v_235r.tif&RGN=0.1951,0.2016,0.2609,0.03248&WID=1000&CVT=JPEG)](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_234v_235r@0.1951,0.2016,0.2609,0.03248)
 
 
