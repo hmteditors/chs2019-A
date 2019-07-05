@@ -98,10 +98,43 @@
                           <gap></gap>
                         </div>
                         <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.156@γὰρ</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.161@γὰρ</p>
                         </div>
                         <div n="comment">
                           <p>ἀπειλήσας τὴν ἐπάνοδον. πάλιν προτρέπει ἐπι τὴν βοήθειαν~ ὁρηζομένου καὶ κηδομένου ἐμφαίνων. ἦθως~ λεληθότως δὲ καὶ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώων</rs> καθὰπεται⁑</p>
+                        </div>
+                      </div>
+                  <div type="scholion" n="E3_227v_4">
+                        <div n="lemma">
+                          <p><gap></gap></p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.164@<w>ἄρισ<gap></gap></w></p>
+                        </div>
+                        <div n="comment">
+                          <p>αξιόπιστα τὰ ἐκώμια. ὑπὸ πολεμίου λεγόμενα~ τεχνικῶς δὲ μέγα δὲ κνισιτὸ κατόρθωμα μᾶλον προτρέπων αὐτους⁑</p>
+                        </div>
+                      </div>
+                  <div type="scholion" n="E3_227v_5">
+                        <div n="lemma">
+                          <p><num value="5">ε</num></p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.167@ἄντα</p>
+                        </div>
+                        <div n="comment">
+                          <p>ού μόνον ἀντι στῆναι ἠ δυνήθης φησι. ἀλλ' οὐ δὲ ἀντιβλέται⁑</p>
+                        </div>
+                      </div>
+                    <div type="scholion" n="E3_227v_6">
+                        <div n="lemma">
+                          <p><num value="6">ζ</num></p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.170@Γλαῦκε</p>
+                        </div>
+                        <div n="comment">
+                          <p>οὐκ ἀπορῶν ἀπολογίας~ ὡς ὑβρισμένος μὲν ἀγανακτεῖ~ πρὸς δὲ τὰ κατηγορηθέντα ἀποκρίνεται~ καὶ τὴν αἰτίαν ψέυδεται. εἰς τὸν δία τὸ ὅλον ἀναφέρων⁑</p>
                         </div>
                       </div>
             </body>
